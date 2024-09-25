@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA132DCE-22E0-464E-9626-7B93BED85AAA}|Lab10 - XML.csproj|d:\\ki\u1EC7t\\oop\\lab10 - xml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA132DCE-22E0-464E-9626-7B93BED85AAA}|Lab10 - XML.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA132DCE-22E0-464E-9626-7B93BED85AAA}|Lab10 - XML.csproj|D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA132DCE-22E0-464E-9626-7B93BED85AAA}|Lab10 - XML.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA132DCE-22E0-464E-9626-7B93BED85AAA}|Lab10 - XML.csproj|D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA132DCE-22E0-464E-9626-7B93BED85AAA}|Lab10 - XML.csproj|solutionrelative:studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\StudentList.cs",
+              "RelativeDocumentMoniker": "StudentList.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\StudentList.cs",
+              "RelativeToolTip": "StudentList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:19:17.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:18:38.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ki\u1EC7t\\OOP\\Lab10 - XML\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:18:14.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

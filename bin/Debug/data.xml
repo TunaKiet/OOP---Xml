@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StudentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <Student>
+      <Id>1</Id>
+      <Name>Kiet</Name>
+      <Age>23</Age>
+    </Student>
+    <Student>
+      <Id>2</Id>
+      <Name>B</Name>
+      <Age>25</Age>
+    </Student>
+  </Students>
+</StudentList>

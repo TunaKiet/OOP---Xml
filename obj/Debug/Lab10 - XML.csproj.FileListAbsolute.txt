@@ -1,0 +1,7 @@
+D:\Kiệt\OOP\Lab10 - XML\bin\Debug\Lab10 - XML.exe.config
+D:\Kiệt\OOP\Lab10 - XML\bin\Debug\Lab10 - XML.exe
+D:\Kiệt\OOP\Lab10 - XML\bin\Debug\Lab10 - XML.pdb
+D:\Kiệt\OOP\Lab10 - XML\obj\Debug\Lab10 - XML.csproj.AssemblyReference.cache
+D:\Kiệt\OOP\Lab10 - XML\obj\Debug\Lab10 - XML.csproj.CoreCompileInputs.cache
+D:\Kiệt\OOP\Lab10 - XML\obj\Debug\Lab10 - XML.exe
+D:\Kiệt\OOP\Lab10 - XML\obj\Debug\Lab10 - XML.pdb
